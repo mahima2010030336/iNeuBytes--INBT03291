@@ -1,6 +1,24 @@
 # iNeuBytes--INBT03291
 iNeuBytes Data Science Internship
 
+Task - 2: Implement a Machine Learning Model for the Regression problem
+Dataset Link: https://www.kaggle.com/datasets/ineubytes/pm25-airpolution-dataset
+This dataset describes about air pollution, specifically the levels of PM2.5 (particulate matter) in the air. PM2.5 is tiny particles that can be harmful when inhaled. This provides data over time, including factors like temperature, humidity, and wind speed, which can influence pollution levels. It also includes the location or city where the measurements were taken. This can be used to study air quality, identify trends, and understand how various factors impact PM2.5 levels, helping to address air pollution and its effects on health.
+These are the columns of dataset:
+1.	No represents row numbers in the dataset.
+2.	year indicates the year of the data in the row.
+3.	month specifies the month of the data in the row.
+4.	day denotes the day of the data in the row.
+5.	hour indicates the hour of the data in the row.
+6.	pm2.5 represents PM2.5 concentration in micrograms per cubic meter (ug/m^3).
+7.	DEWP corresponds to Dew Point temperature in degrees Celsius (°C).
+8.	TEMP refers to Temperature in degrees Celsius (°C).
+9.	PRES signifies atmospheric Pressure in hectopascals (hPa).
+10.	cbwd describes Combined wind direction.
+11.	Iws represents Cumulated wind speed in meters per second (m/s).
+12.	Is signifies Cumulated hours of snow.
+13.	Ir indicates Cumulated hours of rain.
+
 Major Project Task: Predictive Analysis and Customer Segmentation for an E-Commerce Platform.
 Dataset Link: https://www.kaggle.com/datasets/ineubytes/online-retail-ecommerce-dataset   
 An online retail e-commerce dataset is a collection of structured data that records various aspects of online retail transactions and customer interactions with an e-commerce platform. Such datasets are commonly used for analyzing sales patterns, customer behavior, inventory management, and other aspects of e-commerce business operations.
