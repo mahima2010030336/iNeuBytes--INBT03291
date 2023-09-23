@@ -1,6 +1,25 @@
 # iNeuBytes--INBT03291
 iNeuBytes Data Science Internship
 
+Task - 1: Implement a Machine Learning Model for the Classification problem.
+Dataset link - https://www.kaggle.com/datasets/ineubytes/heart-disease-dataset
+The Kaggle "Heart Disease Dataset" is a collection of information about people's hearts. It has details like age, gender, and medical measurements like blood pressure and cholesterol. This data helps doctors and scientists study heart disease and find ways to keep hearts healthy.
+These are the columns of dataset:
+Age: The age of the patient.
+Sex: The gender of the patient (0 for female, 1 for male).
+Chest Pain Type (cp): The type of chest pain experienced by the patient.
+Resting Blood Pressure (trestbps): The resting blood pressure of the patient.
+Serum Cholesterol Level (chol): The serum cholesterol level of the patient.
+Fasting Blood Sugar (fbs): Fasting blood sugar level (> 120 mg/dl or <= 120 mg/dl).
+Resting Electrocardiographic Results (restecg): Resting electrocardiographic results.
+Maximum Heart Rate Achieved (thalach): The maximum heart rate achieved during exercise.
+Exercise-Induced Angina (exang): Whether exercise-induced angina was present (0 for no, 1 for yes).
+ST Depression (oldpeak): ST depression induced by exercise relative to rest.
+Slope of the Peak Exercise ST Segment (slope): The slope of the peak exercise ST segment.
+Number of Major Vessels Colored by Fluoroscopy (ca): The number of major vessels colored by fluoroscopy.
+Thalassemia Type (thal): The type of thalassemia.
+Presence of Heart Disease (target): The presence of heart disease (0 for no, 1 for yes).
+
 Task - 2: Implement a Machine Learning Model for the Regression problem
 Dataset Link: https://www.kaggle.com/datasets/ineubytes/pm25-airpolution-dataset
 This dataset describes about air pollution, specifically the levels of PM2.5 (particulate matter) in the air. PM2.5 is tiny particles that can be harmful when inhaled. This provides data over time, including factors like temperature, humidity, and wind speed, which can influence pollution levels. It also includes the location or city where the measurements were taken. This can be used to study air quality, identify trends, and understand how various factors impact PM2.5 levels, helping to address air pollution and its effects on health.
