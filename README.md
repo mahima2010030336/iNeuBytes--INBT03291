@@ -5,20 +5,20 @@ Task - 1: Implement a Machine Learning Model for the Classification problem.
 Dataset link - https://www.kaggle.com/datasets/ineubytes/heart-disease-dataset
 The Kaggle "Heart Disease Dataset" is a collection of information about people's hearts. It has details like age, gender, and medical measurements like blood pressure and cholesterol. This data helps doctors and scientists study heart disease and find ways to keep hearts healthy.
 These are the columns of dataset:
-Age: The age of the patient.
-Sex: The gender of the patient (0 for female, 1 for male).
-Chest Pain Type (cp): The type of chest pain experienced by the patient.
-Resting Blood Pressure (trestbps): The resting blood pressure of the patient.
-Serum Cholesterol Level (chol): The serum cholesterol level of the patient.
-Fasting Blood Sugar (fbs): Fasting blood sugar level (> 120 mg/dl or <= 120 mg/dl).
-Resting Electrocardiographic Results (restecg): Resting electrocardiographic results.
-Maximum Heart Rate Achieved (thalach): The maximum heart rate achieved during exercise.
-Exercise-Induced Angina (exang): Whether exercise-induced angina was present (0 for no, 1 for yes).
-ST Depression (oldpeak): ST depression induced by exercise relative to rest.
-Slope of the Peak Exercise ST Segment (slope): The slope of the peak exercise ST segment.
-Number of Major Vessels Colored by Fluoroscopy (ca): The number of major vessels colored by fluoroscopy.
-Thalassemia Type (thal): The type of thalassemia.
-Presence of Heart Disease (target): The presence of heart disease (0 for no, 1 for yes).
+1.	Age: The age of the patient.
+2.	Sex: The gender of the patient (0 for female, 1 for male).
+3.	Chest Pain Type (cp): The type of chest pain experienced by the patient.
+4.	Resting Blood Pressure (trestbps): The resting blood pressure of the patient.
+5.	Serum Cholesterol Level (chol): The serum cholesterol level of the patient.
+6.	Fasting Blood Sugar (fbs): Fasting blood sugar level (> 120 mg/dl or <= 120 mg/dl).
+7.	Resting Electrocardiographic Results (restecg): Resting electrocardiographic results.
+8.	Maximum Heart Rate Achieved (thalach): The maximum heart rate achieved during exercise.
+9.	Exercise-Induced Angina (exang): Whether exercise-induced angina was present (0 for no, 1 for yes).
+10.	ST Depression (oldpeak): ST depression induced by exercise relative to rest.
+11.	Slope of the Peak Exercise ST Segment (slope): The slope of the peak exercise ST segment.
+12.	Number of Major Vessels Colored by Fluoroscopy (ca): The number of major vessels colored by fluoroscopy.
+13.	Thalassemia Type (thal): The type of thalassemia.
+14.	Presence of Heart Disease (target): The presence of heart disease (0 for no, 1 for yes).
 
 Task - 2: Implement a Machine Learning Model for the Regression problem
 Dataset Link: https://www.kaggle.com/datasets/ineubytes/pm25-airpolution-dataset
